@@ -1,0 +1,4 @@
+# ninja log v6
+0	44	1731582438463486763	build.ninja	1fcf4afe13bb3f0e
+1	114	1731582438469383984	CMakeFiles/MiProyecto.dir/main.c.o	dbb05b1dba9245db
+114	268	1731582438583149520	MiProyecto	37f9ac826a510b20
